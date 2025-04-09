@@ -12,3 +12,11 @@
 - HTML
 - CSS
 - JavaScript
+
+## Teste
+
+https://visualizador-de-cartas-pokemon.vercel.app
+
+## Banco utilizado
+
+https://github.com/chase-manning/pokemon-tcg-pocket-cards
